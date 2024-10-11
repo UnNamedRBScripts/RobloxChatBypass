@@ -26,13 +26,12 @@ end
 
 
 wait(0.01)
-Chat("c￴￴a￴￴￴t￴￴￴b￴￴y￴p￴as￴s￴e￴r|L￴￴o￴￴aded!")
 
 local Fluent = loadstring(game:HttpGet("https://github.com/dawid-scripts/Fluent/releases/latest/download/main.lua"))()
 
 local Window = Fluent:CreateWindow({
-    Title = "KircleBypsser",
-    SubTitle = "by Sysgeta and jay",
+    Title = "StarProject",
+    SubTitle = "by Project and maybe star idk anymore",
     TabWidth = 160,
     Size = UDim2.fromOffset(580, 460),
     Acrylic = true, -- The blur may be detectable, setting this to false disables blur entirely
@@ -50,8 +49,8 @@ local Window = Fluent:CreateWindow({
 Window:SelectTab(1)
 
 Tabs.Main:AddParagraph({
-    Title = "Creators",
-    Content = "Jay and Sysgeta"
+    Title = "Creator",
+    Content = "StarProject"
 })
      
 Tabs.Main:AddParagraph({
@@ -85,7 +84,7 @@ Tabs.Main:AddButton({
      end
      
      -- Send a message as soon as the script is executed
-     sendChat("lol")
+     sendChat(".")
      
      
      -- GUI Creation
@@ -384,6 +383,15 @@ Tabs.Main:AddButton({
  
          end,
          })
+
+Tabs.Main:AddButton({
+        Title = "Make Them Apoligize",
+        Description = "Very important button",
+        Callback = function()
+             Chat("ca￴￴￴￴tb￴￴￴￴yp￴￴￴a￴￴￴￴ss￴￴￴￴er i￴￴￴￴s s￴￴￴o f￴￴￴￴￴u￴￴￴￴c￴￴￴￴￴k￴￴￴￴i￴￴￴￴n￴￴￴￴gfi￴￴￴￴r￴￴￴e")
+    
+          end,
+           })
 
 Tabs.Main:AddButton({
         Title = "catbypasser is so fucking fire",
