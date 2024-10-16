@@ -262,7 +262,7 @@ Tabs.Main:AddButton({
            ["N"] = "￴N￴￴",
            ["n"] = "￴n￴￴",
            ["O"] = "￴O￴￴",
-           ["o"] = "￴o￴￴",
+           ["o"] = "￴o￴￴￴",
            ["P"] = "￴P￴￴",
            ["p"] = "￴p￴￴",
            ["Q"] = "￴Q￴￴",
@@ -367,10 +367,10 @@ Tabs.Main:AddButton({
 
 
       Tabs.Main:AddButton({
-        Title = "shadow62 is a fucking LEGEND!",
+        Title = "Project is a fucking LEGEND!",
         Description = "Very important button",
         Callback = function()
-           Chat("shadow62isaf￴￴￴uс￴￴￴kі￴￴￴n￴￴￴gLEGEND!")
+           Chat("￴￴p￴￴￴r￴o￴j￴е￴ϲ￴￴￴tisaf￴￴￴uс￴￴￴kі￴￴￴n￴￴￴gLEGEND!")
 
         end,
         })
@@ -516,17 +516,6 @@ Tabs.Main:AddButton({
 })
 
 Tabs.Main:AddButton({
-                    Title = "_9xr is the fucking goat!",
-                    Description = "Very important button",
-                    Callback = function()
-                    	Chat("_9xristhef￴￴￴uс￴￴￴kі￴￴￴n￴￴￴ggoat!")
-
-   end,
-})
-
-
-
-Tabs.Main:AddButton({
    Title = "use catbypasser if youre not a slave monkey!",
    Description = "Very important button",
    Callback = function()
@@ -549,14 +538,6 @@ Tabs.Main:AddButton({
        end,
        })
        
-       Tabs.Sentences:AddButton({
-        Title = "oh yeah... take that cock!",
-        Description = "Very important button",
-        Callback = function()
-           Chat("oһ￴￴yeaһ￴...taketһ￴￴￴atс￴￴￴ос￴￴￴k!")
-            
-            end,
-            })
             
             Tabs.Sentences:AddButton({
                 Title = "wow! that cock riding never stops!",
@@ -770,14 +751,6 @@ Tabs.Sentences:AddButton({
                                              end,
                                           })
 
- Tabs.Sentences:AddButton({
-                                             Title = "skibidi fanum tax my cock retard!",
-                                             Description = "Very important button",
-                                             Callback = function()
-                                                Chat("s￴k￴i￴b￴i￴d￴if￴a￴n￴u￴mt￴￴a￴￴xm￴yc￴￴￴o￴￴c￴￴￴kr￴￴e￴￴￴t￴￴￴a￴￴￴r￴￴￴d!")
-                                                
-                                             end,
-                                          })
 
                                           Tabs.Sentences:AddButton({
                                              Title = "t￴h￴i￴sn￴￴i￴￴g￴￴g￴￴ap￴r￴o￴baz￴o￴o￴p￴h￴i￴l￴e",
@@ -2119,6 +2092,14 @@ Tabs.friendly:AddButton({
                                           Chat("wsgbbguwа￴￴￴nn￴￴￴аѕе￴￴￴еm￴￴￴уHUGEd￴￴￴іс￴￴￴k?")
                                        end,
                                     })
+                                    
+                                    Tabs.Sexual:AddButton({
+                                       Title = "oh yeah... take that cock!",
+                                       Description = "Very important button",
+                                       Callback = function()
+                                          Chat("oһ￴￴yeaһ￴...taketһ￴￴￴atс￴￴￴ос￴￴￴k!")
+                                       end,
+                                    })
 
                                     Tabs.Sexual:AddButton({
                                        Title = "my cock is SOOOO MASSIVE!!!",
@@ -2525,7 +2506,7 @@ Tabs.Roleplay:AddButton({
                                     })
 
 Tabs.Roleplay:AddButton({
- Title = "*p￴￴￴￴u￴￴￴￴t￴￴￴￴s ￴￴￴￴l￴￴￴o￴￴￴t￴￴￴￴i￴￴￴￴o￴￴￴￴n￴￴￴￴￴ o￴￴￴n c￴￴￴￴o￴￴￴￴c￴￴￴￴k*￴￴￴￴",
+                                       Title = "*p￴￴￴￴u￴￴￴￴t￴￴￴￴s ￴￴￴￴l￴￴￴o￴￴￴t￴￴￴￴i￴￴￴￴o￴￴￴￴n￴￴￴￴￴ o￴￴￴n c￴￴￴￴o￴￴￴￴c￴￴￴￴k*￴￴￴￴",
                                        Description = "Very important button",
                                        Callback = function()
                                           Chat("￴￴￴*p￴￴￴￴u￴￴￴￴t￴￴￴￴s￴￴￴￴l￴￴￴o￴￴￴t￴￴￴￴i￴￴￴￴o￴￴￴￴n￴￴￴￴￴o￴￴￴n￴￴￴c￴￴￴￴o￴￴￴￴c￴￴￴￴k*￴￴￴￴￴￴￴￴")
